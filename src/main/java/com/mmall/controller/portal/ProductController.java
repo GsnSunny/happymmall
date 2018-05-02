@@ -32,6 +32,8 @@ public class ProductController {
         return iProductService.manageProductDetail(productId);
     }
 
+
+
     @RequestMapping(value = "list.do")
     @ResponseBody
     public ServerResponse<PageInfo> List(@RequestParam(value = "categoryId", required = false) Integer categoryId,
