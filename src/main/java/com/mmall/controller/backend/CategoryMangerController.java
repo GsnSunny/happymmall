@@ -17,7 +17,7 @@ import javax.servlet.http.HttpSession;
 import java.util.List;
 
 /**
- * Created by ClanceRen on 2018/4/23.
+ * Created by Seina on 2018/4/23.
  */
 @Controller
 @RequestMapping("/manage/category")
