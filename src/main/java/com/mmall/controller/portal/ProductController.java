@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * Created by ClanceRen on 2018/4/26.
+ * Created by Seina on 2018/4/26.
  */
 
 @Controller
