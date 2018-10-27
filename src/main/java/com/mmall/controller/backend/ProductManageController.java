@@ -27,7 +27,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by ClanceRen on 2018/4/23.
+ * Created by Seina on 2018/4/23.
  */
 @Controller
 @RequestMapping("/manage/product")
