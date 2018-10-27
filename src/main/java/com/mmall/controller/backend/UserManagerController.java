@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import javax.servlet.http.HttpSession;
 
 /**
- * Created by ClanceRen on 2018/4/22.
+ * Created by Seina on 2018/4/22.
  */
 @Controller
 @RequestMapping("/manage/user")
