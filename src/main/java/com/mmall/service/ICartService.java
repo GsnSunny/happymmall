@@ -4,7 +4,7 @@ import com.mmall.common.ServerResponse;
 import com.mmall.vo.CartVo;
 
 /**
- * Created by ClanceRen on 2018/4/27.
+ * Created by Seina on 2018/4/27.
  */
 public interface ICartService {
 
